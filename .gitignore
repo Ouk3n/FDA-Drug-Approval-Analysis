@@ -1,0 +1,14 @@
+# macOS junk
+.DS_Store
+._*
+
+# Windows junk
+Thumbs.db
+desktop.ini
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python caches
+__pycache__/
+*.pyc
